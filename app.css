@@ -1,0 +1,23 @@
+.spacer {
+  height: 30vw;
+}
+
+video.video-player {
+  position: fixed;
+  width: 50vw;
+  left: 25vw;
+  transition: all .3s;
+  margin: auto;
+}
+
+.tall {
+  height: 1000vh;
+  width: 45vw;
+  margin: auto;
+}
+
+video.resized {
+  position: fixed;
+  width: 25vw;
+  left: 75vw;
+}
